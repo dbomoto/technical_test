@@ -1,0 +1,94 @@
+/*
+Theme Name: Technical Test
+Description: Used as a job application requirement
+Version: 2.0
+Author: Daniel Benedict L. Omoto
+*/
+
+.dbomoto-logo {
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/Vector-Smart-Object.png");
+}
+
+.dbomoto-hero{
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/Layer-17.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bed-linen{
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/Layer-22.png");
+    background-size: cover;
+}
+
+.bath-towels{
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/Layer-20.png");
+    background-size: cover;
+}
+
+.bath-robes {
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/Layer-23.png");
+    background-size: cover;
+    background-position: left top;
+}
+
+.home-fragrances{
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/JASMINE-copy.png");
+    background-size: cover;
+}
+
+.best-towel{
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/Layer-26.png");
+    background-size: cover;
+}
+
+.best-towel2{
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/Layer-24.png");
+    background-size: cover;
+}
+
+.best-towel3{
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/Layer-25.png");
+    background-size: cover;
+}
+
+.perk1 {
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/perk1edited.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.perk2 {
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/perk2edited.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;    
+}
+.perk3 {
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/perk3edited.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;   
+}
+.perk4 {
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/perk4edited.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;    
+}
+
+.footer1{
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/Layer-30.png");
+    background-size: cover;
+}
+.footer2{
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/footer-pic-1.png");
+    background-size: cover;
+}
+.footer3{
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/footer-pic-2.png");
+    background-size: cover;
+}
+.footer4{
+    background-image: url("http://localhost/technical_test/wordpress/wp-content/uploads/2022/04/Layer-33.png");
+    background-size: cover;
+}
